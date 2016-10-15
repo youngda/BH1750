@@ -1,3 +1,7 @@
+/* author:youngda
+ * version:v1.0
+ * data:21-5-2015
+ */
 #include <Wire.h> //IIC
 
 #include <math.h> 
